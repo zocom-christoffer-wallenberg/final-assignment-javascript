@@ -8,7 +8,7 @@ Flickr API dokumentation hittar ni [här](https://www.flickr.com/services/api/).
 
 Glöm inte bort [clean code](https://github.com/ryanmcdermott/clean-code-javascript).
 
-Det viktigaste är inte exakt hur ni skriver er kod utan att ni kan motivera varför ni väljer att göra som ni gör.x
+Det viktigaste är inte exakt hur ni skriver er kod utan att ni kan motivera varför ni väljer att göra som ni gör.
 
 **Krav på funktionalitet:**
 * Kunna söka efter bilder från Flickr-API
