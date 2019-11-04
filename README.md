@@ -6,6 +6,8 @@ Du ska bygga en webbsida där en användare kan via ett sökfält söka efter bi
 
 Flickr API dokumentation hittar ni [här](https://www.flickr.com/services/api/).
 
+För att göra url:er till bilder kan ni kolla [här](https://www.flickr.com/services/api/misc.urls.html).
+
 Glöm inte bort [clean code](https://github.com/ryanmcdermott/clean-code-javascript).
 
 Det viktigaste är inte exakt hur ni skriver er kod utan att ni kan motivera varför ni väljer att göra som ni gör.
