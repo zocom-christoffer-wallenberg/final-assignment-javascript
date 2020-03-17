@@ -4,11 +4,9 @@
 
 Du ska bygga en webbsida där en användare kan via ett sökfält söka efter bilder på Flickr. Resultat från Flickr ska visas upp som ett galleri för användaren. Det ska även gå att klicka på en bild för att få en större version av denna bild.
 
-Flickr API dokumentation hittar ni [här](https://www.flickr.com/services/api/).
+Flickr API dokumentation hittar ni [här](https://www.flickr.com/services/api/flickr.photos.search.html).
 
 För att göra url:er till bilder kan ni kolla [här](https://www.flickr.com/services/api/misc.urls.html).
-
-Glöm inte bort [clean code](https://github.com/ryanmcdermott/clean-code-javascript).
 
 Det viktigaste är inte exakt hur ni skriver er kod utan att ni kan motivera varför ni väljer att göra som ni gör.
 
@@ -23,6 +21,9 @@ Det viktigaste är inte exakt hur ni skriver er kod utan att ni kan motivera var
 * Ingen JS i HTML (onclick etc)
 
 **För Väl Godkänt krävs:**
-* Att du har delat upp din kod i ES6 moduler och kan argumentera för ditt val av uppdelning
+* Att du har delat upp din kod i ES6 moduler och skrivit några rader som en kommentar varför du delat upp din kod som du gjort.
 * Din sida är responsiv (d.v.s fungerar både i mobil och desktop)
 
+Inlämning sker via Github och Learnpoint. Ladda upp ditt projekt på Github. Gå sedan in på Learnpoint och under innehåll finns det en inlämningsuppgift där du ska posta din länk till ditt repo. Ifall du behöver hjälp med Github så fråga på lektionen!
+
+**Inlämning senast**: 25/3 23:59 
