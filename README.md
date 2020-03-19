@@ -4,7 +4,7 @@
 
 Du ska bygga en webbsida där en användare kan via ett sökfält söka efter bilder på Flickr. Resultat från Flickr ska visas upp som ett galleri för användaren. Det ska även gå att klicka på en bild för att få en större version av denna bild.
 
-API nyckel: 19d3e6e0acfe9c438f368e2c2bab1
+API nyckel: 19d3e6e0acfe9c438f368e2c2bab1c5d
 
 Flickr API dokumentation hittar ni [här](https://www.flickr.com/services/api/flickr.photos.search.html).
 
